@@ -1,0 +1,14 @@
+{
+  "name": "nodewebstream",
+  "version": "1.0.0",
+  "description": "stream player with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sh.Tahvildary",
+  "license": "ISC",
+  "dependencies": {
+    "tedious": "^2.1.5"
+  }
+}
